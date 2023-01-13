@@ -47,6 +47,26 @@ link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-s
 
 # **User Stories**
 
+1. As a busy working professional, I want to be able to quickly search for recipes by keyword or ingredient so that I can find something to make for dinner tonight.
+
+2. As a food enthusiast, I want to be able to filter recipes by meal type or dietary restriction so that I can discover new and exciting recipes to try.
+
+3. As a family person, I want to be able to plan my meals for the week by filtering for specific ingredients or dietary restrictions so that I can ensure that we have everything we need on hand.
+
+4. As a busy working professional, I want to be able to save my favorite recipes for easy access in the future so that I don't have to search for them again.
+
+5. As a food enthusiast, I want to be able to rate and comment on recipes so that I can share my thoughts with other users and get feedback and suggestions.
+
+6. As a family person, I want to be able to view a random selection of the top-rated recipes on the homepage so that I can discover new and exciting recipes to try.
+
+7. As a busy working professional, I want to be able to update and delete my own personal recipe collection so that I can keep it organized and up-to-date.
+
+8. As a food enthusiast, I want to be able to easily find recipes that fit my dietary restrictions so that I can continue to eat healthy and delicious meals.
+
+9. As a family person, I want to be able to add my own recipes to the app so that I can share my family's favorite recipes with others.
+
+10. As a busy working professional, I want to be able to access my recipe collection from my phone so that I can plan my meals on the go.
+
 # **Implementation plan**
 
 link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-stack-app).
