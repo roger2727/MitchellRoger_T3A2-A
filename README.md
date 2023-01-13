@@ -40,6 +40,8 @@ link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-s
   Food enthusiasts are always looking to discover new and exciting recipes, and this app would be a great resource for them. The app's search and filter functionality would allow them to find new recipes based on their interests, and the ability to save and organize their favorite recipes would make it easy for them to try out new recipes in the future.
 
   Families often have to consider different dietary restrictions and preferences when planning meals, this app's search and filter functionality and meal planning capabilities would make it easy for them to find and plan meals that everyone in the family will enjoy. Additionally, the CRUD functionality would allow each member of the family to save and organize their own personal recipe collection, making meal planning even more efficient for the whole family.
+  <br>
+  <br>
 
 # **Tech stack**
 
@@ -67,9 +69,21 @@ link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-s
 
 10. As a busy working professional, I want to be able to access my recipe collection from my phone so that I can plan my meals on the go.
 
+<br>
+<br>
+
 # **Implementation plan**
 
-link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-stack-app).
+link to Trello Board [_here_](https://trello.com/b/cbYkzz9g/full-stack-app).
+
+So, in our project, we decided to use Trello to manage and delegate tasks among the team members. Trello is a visual tool that makes it easy to organize and track tasks. At the start of the project, we all had a meeting to discuss and assign tasks to each team member. Each team member was responsible for a specific task, which was added to the "To-Do" card on Trello. This card listed all the tasks that needed to be completed for the project.
+
+As we started working on the tasks, we would drag the task from the "To-Do" card to our assigned card on Trello. This way, the team could see who was responsible for each task and the progress of each task. Once we completed a task, we would move it from our assigned card to the "Completed" card on Trello. This helped us keep track of what had been done and what still needed to be done.
+
+Overall, this process allowed for clear communication and organization within the team, and helped us ensure that all tasks were completed in a timely manner. It also allowed each of us to focus on our specific tasks and not get overwhelmed by the entire project.
+<br>
+
+### **screenshots**
 
 ![Example screenshot](/docs/trello.png)
 
