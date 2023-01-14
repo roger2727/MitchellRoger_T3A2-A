@@ -45,6 +45,18 @@ link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-s
 
 # **Tech stack**
 
+- **Express:** Express is a web application framework for Node.js that provides a robust set of features for web and mobile applications. It is used in this app to handle routing and handle HTTP requests and responses. It is responsible for handling the server-side logic of the application.
+
+- **MongoDB:** MongoDB is a NoSQL database that is used to store and retrieve data for the application. It is used in this app to store and retrieve user data such as recipes and user's information.
+
+- **React:** React is a JavaScript library for building user interfaces. It is used in this app to handle the client-side logic of the application and for building the front-end of the application.
+
+- **Node.js:** Node.js is an open-source JavaScript runtime environment that enables the use of JavaScript on the server-side. It is used in this app to run the server-side logic of the application and to handle the communication between the front-end and back-end.
+
+- **JWT Token:** JSON Web Token (JWT) is an open standard for creating and transmitting access tokens. It is used in this app to authenticate and authorize users, ensuring that only authorized users can access certain routes and resources.
+
+- **Bcrypt:** Bcrypt is a password hashing function that is used to encrypt and secure user passwords. It is used in this app to hash and store user passwords in the database, ensuring the security of user data.
+
 # **Dataflow Diagram**
 
 # **User Stories**
