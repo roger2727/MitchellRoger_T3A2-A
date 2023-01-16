@@ -6,13 +6,16 @@ link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-s
 
 ## Table of Contents
 
-- [General Info](#general-information)
-- [Tech stack](#tech-stack)
-- [Dataflow Diagram](#dataflow-diagram)
-- [User Stories](#user-stories)
-- [Implementation Plan](#implementation-plan)
-- [Wireframes](#wireframes)
-- [Reference](#reference)
+- [full stack app](#full-stack-app)
+  - [Table of Contents](#table-of-contents)
+- [**General Information**](#general-information)
+- [**Tech stack**](#tech-stack)
+- [**Dataflow Diagram**](#dataflow-diagram)
+- [**User Stories**](#user-stories)
+- [**Implementation plan**](#implementation-plan)
+    - [**screenshots**](#screenshots)
+- [**Wireframes**](#wireframes)
+- [**Reference**](#reference)
 
 <br>
 <br>
@@ -58,6 +61,14 @@ link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-s
 - **Bcrypt:** Bcrypt is a password hashing function that is used to encrypt and secure user passwords. It is used in this app to hash and store user passwords in the database, ensuring the security of user data.
 
 # **Dataflow Diagram**
+
+![Concept Diagram](/docs/concept_diagram.png)
+
+First of all is the main concept diagram. This provides a brief overview of what the minimum viable product(MVP) would look like. The whole projects itself is about managing the recipes that the users find valuable. It will also allow other users to browse and comment on others entered recipes.
+
+![Example screenshot](/docs/dfd_level2.png)
+
+A more involved dataflow diagram shows more of the logic of the MVP.
 
 # **User Stories**
 
