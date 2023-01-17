@@ -67,9 +67,13 @@ link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-s
 
 First of all is the main concept diagram. This provides a brief overview of what the minimum viable product(MVP) would look like. The whole projects itself is about managing the recipes that the users find valuable. It will also allow other users to browse and comment on others entered recipes.
 
-![Example screenshot](/docs/dfd_level2.png)
+![Login DFD](/docs/LoginDFD.png)
 
-A more involved dataflow diagram shows more of the logic of the MVP.
+Shows the data flow for the login and registration process.
+
+![Recipe DFD](/docs/RecipeDFD.png)
+
+Shows the data flow for the recipe creation and viewing process.
 
 # **Application Architecture Diagram**
 
