@@ -10,11 +10,12 @@ link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-s
   - [Table of Contents](#table-of-contents)
 - [**General Information**](#general-information)
 - [**Tech stack**](#tech-stack)
+- [**Development Team**](#development-team)
 - [**Dataflow Diagram**](#dataflow-diagram)
 - [**Application Architecture Diagram**](#application-architecture-diagram)
 - [**User Stories**](#user-stories)
 - [**Implementation plan**](#implementation-plan)
-    - [**screenshots**](#screenshots)
+  - [**screenshots**](#screenshots)
 - [**Wireframes**](#wireframes)
 - [**Reference**](#reference)
 
@@ -60,6 +61,25 @@ link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-s
 - **JWT Token:** JSON Web Token (JWT) is an open standard for creating and transmitting access tokens. It is used in this app to authenticate and authorize users, ensuring that only authorized users can access certain routes and resources.
 
 - **Bcrypt:** Bcrypt is a password hashing function that is used to encrypt and secure user passwords. It is used in this app to hash and store user passwords in the database, ensuring the security of user data.
+  <br>
+  <br>
+
+# **Development Team**
+
+- Dale Dahlenburg - [@github.com/daledburg](https://github.com/daledburg)
+
+  - Dale Dahlenburg is responsible for the backend development of the app. He is responsible for developing and maintaining the server-side of the application, including creating and managing the database, handling user authentication and authorization, and implementing the app's API. He is also responsible for ensuring that the app's performance is optimized and that it can handle a large number of users.
+    <br>
+    <br>
+
+- Divij Seth - [@github.com/DjSeth1](https://github.com/DjSeth1)
+
+  - Divij Seth is responsible for the frontend development of the app. He is responsible for designing and implementing the user interface, creating interactive features, and ensuring that the app is responsive and user-friendly. He is also responsible for creating the visual elements of the app, such as icons, images, and layouts.
+    <br>
+    <br>
+
+- Mitchell Roger - [@github.com/roger2727](https://github.com/roger2727)
+  - Mitchell Roger is responsible for both the backend and frontend development of the app. He is also responsible for managing the repository, ensuring that the codebase is well-organized and easy to navigate. He is also responsible for testing the code, ensuring that the app is working correctly and fix any bugs found during the testing process. He is also responsible for the deployment of the app, which includes configuring the necessary servers, databases and environments, and making sure that the app is properly configured for production.
 
 # **Dataflow Diagram**
 
