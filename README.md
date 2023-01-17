@@ -11,6 +11,7 @@ link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-s
 - [**General Information**](#general-information)
 - [**Tech stack**](#tech-stack)
 - [**Dataflow Diagram**](#dataflow-diagram)
+- [**Application Architecture Diagram**](#application-architecture-diagram)
 - [**User Stories**](#user-stories)
 - [**Implementation plan**](#implementation-plan)
     - [**screenshots**](#screenshots)
@@ -69,6 +70,10 @@ First of all is the main concept diagram. This provides a brief overview of what
 ![Example screenshot](/docs/dfd_level2.png)
 
 A more involved dataflow diagram shows more of the logic of the MVP.
+
+# **Application Architecture Diagram**
+
+![Application Architecture Diagram](/docs/ApplicationArchitectureDiagram.png)
 
 # **User Stories**
 
