@@ -1,6 +1,6 @@
 # full stack app
 
-![Example screenshot](/docs/banner.png)
+![Example screenshot](/docs/bannernew.png)
 
 link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-stack-app).
 
