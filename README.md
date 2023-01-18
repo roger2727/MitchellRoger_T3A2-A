@@ -141,11 +141,17 @@ Overall, this process allowed for clear communication and organization within th
 
 # **Wireframes**
 
+View full [_here_](https://www.figma.com/file/tyqI6h3s5vTSop0jik7XRy/RecipeAppWireframes?node-id=0%3A1&t=4RVm5VoRq2MnVuBQ-1)
+Created using Figma. 
+
+
 1. Landing Pages
    - This page is where the user will land, and navigate to different parts of the app. This will feature a search bar, aswell as categories of recipies they can filter by with a simple click of the icon. It will feature a carousel display of recipes which can be hovered and clicked on to access. They are neatly organised into a random list of recipes which be under "Today's picks" and a rated list of "Trending" recipes. Below are the mobile and desktop versions.
-   - ![landing pages](/docs/wireframes/Landing-page-desktop.png)
-   - ![landing pages](/docs/wireframes/Landing-page-mobile.png)
-  
+
+    ![landing pages](/docs/wireframes/Landing-page-desktop.png)
+            
+    ![landing pages](/docs/wireframes/Landing-page-mobile.png)
+
 2. Search Functionality
     - The search function, by icon or search bar re-renders a list of recipes that match the search criteria. Below images show what this will look like in desktop and mobile versions. This will be added in the next sprint as we build out the search functionality.
     - ![search function](docs/wireframes/Searching-desktop.png)
@@ -187,14 +193,14 @@ Overall, this process allowed for clear communication and organization within th
    -  ![Nothing](docs/wireframes/Nothing-saved-desktop.png)
    -  ![Nothing](docs/wireframes/Nothing-saved-mobile.png)
 
-10. Edit Recipes/Delete Recipes.
+1.  Edit Recipes/Delete Recipes.
     - Upon viewing their own created recipes, the user has the option to edit or delete this item. This option can be accessed upon hover on their 'my recipe' tiles. After clicking through, they will be prompted to edit or delete this recipe. The fields will remain filled in with the previous information, so editing can be fast and easy. There is a handy delete button with a pop up for those who don't want to share the recipe any longer. Upon deleting, the user is re-directed to their personal homepage. In the case of an edit, the user is shown their newly created recipe.
     - ![edit](docs/wireframes/Edit%3ADelete-recipe-desktop.png)
     - ![edit](docs/wireframes/Edit%3ADelete-recipe-mobile.png)
 
 <br>
 The design ethos for these wireframes was to make navigation between all component's functionality, easy, quick and seamless. Each page or rendered componenet has a coherent and visible primary function, with navigation options scattered in the background. The relationships between each screen is fluid and intuitive. Space distribution has been carefully crafted to create an intutive and functional experience each time the user interacts with the application. With this UI, the goal is to declutter our users' minds as our target audience tends to primarily be busy individuals/families, all while remaining focused and functional.
-
+<br>
 In terms of agile methodology. Each component fits our user stories that have been outlined in this document. Each user story has been broken down into tasks and components which satisfy the user story criteria. The build of these wireframes will be done in a methodical approach whereby the components with the highest amount of re-usability that satisfy multiple user story criterion will be done first, and niche components specific to some screens added later in the mix. 
 <br>
 # **Reference**
