@@ -50,17 +50,57 @@ link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-s
 
 # **Tech stack**
 
-- **Express:** Express is a web application framework for Node.js that provides a robust set of features for web and mobile applications. It is used in this app to handle routing and handle HTTP requests and responses. It is responsible for handling the server-side logic of the application.
+**Express:**
 
-- **MongoDB:** MongoDB is a NoSQL database that is used to store and retrieve data for the application. It is used in this app to store and retrieve user data such as recipes and user's information.
+- Express is a web application framework for Node.js that provides a robust set of features for web and mobile applications. It is used in this app to handle routing and handle HTTP requests and responses. It is responsible for handling the server-side logic of the application.
 
-- **React:** React is a JavaScript library for building user interfaces. It is used in this app to handle the client-side logic of the application and for building the front-end of the application.
+**MongoDB:**
 
-- **Node.js:** Node.js is an open-source JavaScript runtime environment that enables the use of JavaScript on the server-side. It is used in this app to run the server-side logic of the application and to handle the communication between the front-end and back-end.
+- MongoDB is a NoSQL database that is used to store and retrieve data for the application. It is used in this app to store and retrieve user data such as recipes and user's information.
 
-- **JWT Token:** JSON Web Token (JWT) is an open standard for creating and transmitting access tokens. It is used in this app to authenticate and authorize users, ensuring that only authorized users can access certain routes and resources.
+**React:**
 
-- **Bcrypt:** Bcrypt is a password hashing function that is used to encrypt and secure user passwords. It is used in this app to hash and store user passwords in the database, ensuring the security of user data.
+- React is a JavaScript library for building user interfaces. It is used in this app to handle the client-side logic of the application and for building the front-end of the application.
+
+**Node.js:**
+
+- Node.js is an open-source JavaScript runtime environment that enables the use of JavaScript on the server-side. It is used in this app to run the server-side logic of the application and to handle the communication between the front-end and back-end.
+
+**JWT Token:**
+
+- JSON Web Token (JWT) is an open standard for creating and transmitting access tokens. It is used in this app to authenticate and authorize users, ensuring that only authorized users can access certain routes and resources.
+
+**Bcrypt:**
+
+- Bcrypt is a password hashing function that is used to encrypt and secure user passwords. It is used in this app to hash and store user passwords in the database, ensuring the security of user data.
+
+**Vite:**
+
+- Vite is a build tool and development server that is designed to be fast and lightweight. It can be used in this app to improve the development experience and to speed up the building and serving of the application.
+
+**Cloudinary:**
+
+- Cloudinary is a cloud-based image and video management platform that can be used to store, manipulate, and deliver media files. It can be used in this app to handle the storage and delivery of images and videos for the application.
+
+**Jest:**
+
+- Jest is a JavaScript testing framework that can be used to test the functionality of the application. It can be used in this app to write unit tests for the server-side and client-side logic of the application.
+
+**Multer:**
+
+- Multer is a middleware for handling multipart/form-data, which is primarily used for handling file uploads. It can be used in this app to handle the image uploads in the application.
+
+**Vitest:**
+
+- Vite + Jest. It is a testing framework that allows to run Jest test on Vite, providing a fast and efficient way to test the application.
+
+**Supertest:**
+
+- Supertest is a library for testing Node.js HTTP servers. It can be used in this app to test the Express routes and endpoints by making HTTP requests and asserting on the responses.
+
+**Cors:**
+
+- Cors is a middleware that can be used to enable cross-origin resource sharing (CORS) in the application. It can be used in this app to configure the server to allow requests from different origins, ensuring that the front-end can communicate with the back-end without any issues.
   <br>
   <br>
 
