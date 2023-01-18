@@ -15,7 +15,7 @@ link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-s
 - [**Application Architecture Diagram**](#application-architecture-diagram)
 - [**User Stories**](#user-stories)
 - [**Implementation plan**](#implementation-plan)
-  - [**screenshots**](#screenshots)
+    - [**screenshots**](#screenshots)
 - [**Wireframes**](#wireframes)
 - [**Reference**](#reference)
 
@@ -140,5 +140,18 @@ Overall, this process allowed for clear communication and organization within th
 ![Example screenshot](/docs/trello.png)
 
 # **Wireframes**
+
+1. Landing Pages
+   - This page is where the user will land, and navigate to different parts of the app. This will feature a search bar, aswell as categories of recipies they can filter by with a simple click of the icon. It will feature a carousel display of recipes which can be hovered and clicked on to access. They are neatly organised into a random list of recipes which be under "Today's picks" and a rated list of "Trending" recipes. Below are the mobile and desktop versions. 
+2. Search Functionality
+    - The search function, by icon or search bar re-renders a list of recipes that match the search criteria. Below images show what this will look like in desktop and mobile versions. This will be added in the next sprint as we build out the search functionality.
+3. View Recipe. 
+    - Once the recipe has been selected by a user, via a click or going through the hover and view. The full details of the recipe will be available for their viewing. In this, if logged in they can save the recipe, as well as rate the receipe. There are two buttons that can be used to alternate between the ingredients and the instructions to be displayed. 
+4. Sign Up and Login.
+    - These can be accessed via the nav menu. Or if the user wishes to save a recipe or give it a rating. The user will be prompted to login or sign up. Upon sucessful login or sign up. The user will be re-directed to the homepage. Below are wireframes for login and sign up. 
+5. Logged in User Homepage
+    - User's personal homepage with Today's picks and Trending section. The nav bar will now contain a place for favourited recipes. Creating recipes aswell as accessing their own reciepes. These navigate to a list the aforementioned recipe componenents which will be shown next. Below is a wireframe of this page. 
+6. Favourites/My Recipes 
+    - Wireframes below show a personalisted list of recipes that the user has either saved or created. On hover or click through. The user has full CRUD functionality of the recipes. 
 
 # **Reference**
