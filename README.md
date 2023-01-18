@@ -142,16 +142,30 @@ Overall, this process allowed for clear communication and organization within th
 # **Wireframes**
 
 1. Landing Pages
-   - This page is where the user will land, and navigate to different parts of the app. This will feature a search bar, aswell as categories of recipies they can filter by with a simple click of the icon. It will feature a carousel display of recipes which can be hovered and clicked on to access. They are neatly organised into a random list of recipes which be under "Today's picks" and a rated list of "Trending" recipes. Below are the mobile and desktop versions. 
+   - This page is where the user will land, and navigate to different parts of the app. This will feature a search bar, aswell as categories of recipies they can filter by with a simple click of the icon. It will feature a carousel display of recipes which can be hovered and clicked on to access. They are neatly organised into a random list of recipes which be under "Today's picks" and a rated list of "Trending" recipes. Below are the mobile and desktop versions.
 2. Search Functionality
     - The search function, by icon or search bar re-renders a list of recipes that match the search criteria. Below images show what this will look like in desktop and mobile versions. This will be added in the next sprint as we build out the search functionality.
 3. View Recipe. 
-    - Once the recipe has been selected by a user, via a click or going through the hover and view. The full details of the recipe will be available for their viewing. In this, if logged in they can save the recipe, as well as rate the receipe. There are two buttons that can be used to alternate between the ingredients and the instructions to be displayed. 
+    - Once the recipe has been selected by a user, via a click or going through the hover and view. The full details of the recipe will be available for their viewing. In this, if the user is logged in, they can save the recipe, as well as rate the receipe. There are two buttons that can be used to alternate between the ingredients and the instructions to be displayed.
 4. Sign Up and Login.
     - These can be accessed via the nav menu. Or if the user wishes to save a recipe or give it a rating. The user will be prompted to login or sign up. Upon sucessful login or sign up. The user will be re-directed to the homepage. Below are wireframes for login and sign up. 
 5. Logged in User Homepage
-    - User's personal homepage with Today's picks and Trending section. The nav bar will now contain a place for favourited recipes. Creating recipes aswell as accessing their own reciepes. These navigate to a list the aforementioned recipe componenents which will be shown next. Below is a wireframe of this page. 
+    - User's personal homepage with Today's picks and Trending section. The nav bar will now contain a place for favourited recipes. Creating recipes aswell as accessing their own reciepes. These navigate to a list the aforementioned recipe componenents which will be shown next. Below is a wireframe of this page
 6. Favourites/My Recipes 
-    - Wireframes below show a personalisted list of recipes that the user has either saved or created. On hover or click through. The user has full CRUD functionality of the recipes. 
+    - Wireframes below show a personalisted list of recipes that the user has either saved or created. On hover or click through, the user has full CRUD functionality of the recipes they have created. The user can also delete favourited recipes from their list.
+7. Create Recipe
+    - Wireframes below show the layout of a recipe that the user wants to create. The user can first select the category, the progress onwards through the form in a long scroll fashion. It has fields for name, instructions, ingredients as well as drop down options to select servicing size, as well as potential cook times. Users can also upload an image of their receipe. The user is gently guided through the form on how to enter each submission.
+8. Recipe Created
+    - This page displays the recipe that has been newly created by the user. It is rendered in a similar way to view recipe, but also includes an edit button, if the user has forgotten something.
+9. No favourites or created recipes component.
+   -  New users who have not played around with the app, are likely to be in this position. No worries. Our app will render a list of randomly generated recipes that the user wishes to view or save to their tastes. Below are the wireframes for this scenario.
+10. Edit Recipes/Delete Recipes.
+    - Upon viewing their own created recipes, the user has the option to edit or delete this item. This option can be accessed upon hover on their 'my recipe' tiles. After clicking through, they will be prompted to edit or delete this recipe. The fields will remain filled in with the previous information, so editing can be fast and easy. There is a handy delete button with a pop up for those who don't want to share the recipe any longer.
+
+
+
+The design ethos for these wireframes was to make navigation between all component's functionality, easy, quick and seamless. Each page or rendered componenet has a coherent and visible primary function, with navigation options scattered in the background. The relationships between each screen is fluid and intuitive. Space distribution has been carefully crafted to create an intutive and functional experience each time the user interacts with the application. With this UI, the goal is to declutter our users' minds as our target audience tends to primarily be busy individuals/families, all while remaining focused and functional.
+
+In terms of agile methodology. Each component fits our user stories that have been outlined in this document. Each user story has been broken down into tasks and components which satisfy the user story criteria. The build of these wireframes will be done in a methodical approach whereby the components with the highest amount of re-usability that satisfy multiple user story criterion will be done first, and niche components specific to some screens added later in the mix. 
 
 # **Reference**
