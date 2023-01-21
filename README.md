@@ -17,7 +17,7 @@ link to Trello Implementation plan [_here_](https://trello.com/b/cbYkzz9g/full-s
 - [**Implementation plan**](#implementation-plan)
     - [**screenshots**](#screenshots)
 - [**Wireframes**](#wireframes)
-- [**Reference**](#reference)
+- [**References**](#references)
 
 <br>
 <br>
@@ -141,11 +141,11 @@ Shows the data flow for the recipe creation and viewing process.
 
 # **User Stories**
 
-1. As a busy working professional, I want to be able to quickly search for recipes by keyword or ingredient so that I can find something to make for dinner tonight.
+1. As a busy working professional, I want to be able to quickly search for recipes by keyword or ingredient so that I can find something to make for dinner tonight. It is important as a busy working professional does not have time to sift through each recipe to see if the ingredients they have at home are substantiated enough to make the meal. 
 
-2. As a food enthusiast, I want to be able to filter recipes by meal type or dietary restriction so that I can discover new and exciting recipes to try.
+2. As a food enthusiast, I want to be able to filter recipes by meal type or dietary restriction so that I can discover new and exciting recipes to try. As a food enthusiast it is important to learn creative and inspiring ways to create my own recipes.
 
-3. As a family person, I want to be able to plan my meals for the week by filtering for specific ingredients or dietary restrictions so that I can ensure that we have everything we need on hand.
+3. As a family person, I want to be able to plan my meals for the week by filtering for specific ingredients or dietary restrictions so that I can ensure that we have everything we need on hand. 
 
 4. As a busy working professional, I want to be able to save my favorite recipes for easy access in the future so that I don't have to search for them again.
 
@@ -172,7 +172,9 @@ So, in our project, we decided to use Trello to manage and delegate tasks among 
 
 As we started working on the tasks, we would drag the task from the "To-Do" card to our assigned card on Trello. This way, the team could see who was responsible for each task and the progress of each task. Once we completed a task, we would move it from our assigned card to the "Completed" card on Trello. This helped us keep track of what had been done and what still needed to be done.
 
-After some more consideration after days 1 and 2, we revised our Kanban board to reflect the stages each task went through, as a result we added a to do, doing, review and testing steps before adding it into the completed category. Now our strategy encompassed a group wide review before completing the task, as well as gaining a better understanding of where each ticket was in the process of our agile method.
+After some more consideration after days 1 and 2, we revised our Kanban board to reflect the stages each task went through, as a result we added a to do, doing, review and testing steps before adding it into the completed category. Now our strategy encompassed a group wide review before completing the task, as well as gaining a better understanding of where each ticket was in the process of our agile method. We had also added additonal user stories upon reflection, to better capture the needs of our target audience. 
+
+We also had a daily stand up where we discussed what to do next, what we are working on, and if there are any blockers or questions. Then these were made into tickets, during this meeting we also looked to refine our user stories to ensure that our tasks were purposeful. 
 
 Overall, this process allowed for clear communication and organization within the team, and helped us ensure that all tasks were completed in a timely manner. It also allowed each of us to focus on our specific tasks and not get overwhelmed by the entire project.
 <br>
@@ -254,4 +256,6 @@ In terms of agile methodology. Each component fits our user stories that have be
 <br>
 <br>
 
-# **Reference**
+# **References**
+
+
