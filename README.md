@@ -172,12 +172,18 @@ So, in our project, we decided to use Trello to manage and delegate tasks among 
 
 As we started working on the tasks, we would drag the task from the "To-Do" card to our assigned card on Trello. This way, the team could see who was responsible for each task and the progress of each task. Once we completed a task, we would move it from our assigned card to the "Completed" card on Trello. This helped us keep track of what had been done and what still needed to be done.
 
+After some more consideration after days 1 and 2, we revised our Kanban board to reflect the stages each task went through, as a result we added a to do, doing, review and testing steps before adding it into the completed category. Now our strategy encompassed a group wide review before completing the task, as well as gaining a better understanding of where each ticket was in the process of our agile method.
+
 Overall, this process allowed for clear communication and organization within the team, and helped us ensure that all tasks were completed in a timely manner. It also allowed each of us to focus on our specific tasks and not get overwhelmed by the entire project.
 <br>
 
 ### **screenshots**
 
 ![Example screenshot](/docs/trello.png)
+![Screenshots](/docs/trello/Trello-3.png)
+![Screenshots](/docs/trello/Trello-4.png)
+![Screenshots](/docs/trello/Trello-5.png)
+![Screenshots](docs/trello/Trello-6.png)
 
 # **Wireframes**
 
