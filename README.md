@@ -181,7 +181,7 @@ Overall, this process allowed for clear communication and organization within th
 
 ### **screenshots**
 
-![Example screenshot](/docs/trello.png)
+![Example screenshot](/docs/trello/trello.png)
 ![Screenshots](/docs/trello/Trello-3.png)
 ![Screenshots](/docs/trello/Trello-4.png)
 ![Screenshots](/docs/trello/Trello-5.png)
