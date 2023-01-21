@@ -258,4 +258,19 @@ In terms of agile methodology. Each component fits our user stories that have be
 
 # **References**
 
+- Atlassian. (n.d.). Kanban Method. Retrieved from https://www.atlassian.com/agile/kanban
+- Atlassian. (n.d.). Agile Methodology. Retrieved from https://www.atlassian.com/agile
+- Lucidchart. (n.d.). How to draw architectural diagrams. Retrieved from https://www.lucidchart.com/blog/how-to-draw-architectural-diagrams
+
+- Clickittech. (n.d.). Web Application Architecture. Retrieved from https://www.clickittech.com/devops/web-application-architecture/
+
+- GitMind. (n.d.). Architecture Diagram. Retrieved from https://gitmind.com/architecture-diagram.html
+
+- SAP. (n.d.). SAP PowerDesigner Help. Retrieved from https://help.sap.com/docs/SAP_POWERDESIGNER/751f71f0ff6c4be79fdc22016b5fcfd8/c7f874676e1b10149b1f94a2cec3891d.html?version=16.6.3&locale=en-US
+
+- Hubspot. (n.d.). How to Create a Data Flow Diagram (DFD) for Your Business. Retrieved from https://blog.hubspot.com/marketing/data-flow-diagram
+
+- Techtarget. (n.d.). Data flow diagram (DFD). Retrieved from https://www.techtarget.com/searchdatamanagement/definition/data-flow-diagram-DFD
+
+- Visual Paradigm. (n.d.). Data Flow Diagram - What is a Data Flow Diagram (DFD)? Retrieved from https://www.visual-paradigm.com/guide/data-flow-diagram/what-is-data-flow-diagram/
 
